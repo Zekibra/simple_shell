@@ -150,9 +150,9 @@ exit
 | `cat` | cat (from concatenate), is a wonderful utility that allows us to visualize the content of a text file in the standard output, without the need of an editor. |
 
    <p align="center">
-Mohammed Bheser -
-<a href="https://github.com/123mame">
-        <img src="https://avatars.githubusercontent.com/u/61684834?v=4">
+abdurehman beshir -
+<a href="https://github.com/Zekibra">
+        <img src="https://avatars.githubusercontent.com/u/owen-russell-highresscreenshot00007">
 </a>
 </p>
 
